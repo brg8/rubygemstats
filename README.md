@@ -1,4 +1,4 @@
-The rubygemstats gem gets gem statistics from the gem page on http://rubygems.org. 
+The rubygemstats gem gets statistics from the gem page on http://rubygems.org. 
 
 ```
 require "rubygemstats"  
